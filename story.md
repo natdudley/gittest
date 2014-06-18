@@ -1,5 +1,7 @@
+![Thirsty llama](http://i.imgur.com/civQQne.gif)
+
 <div class="team one">
-Words about CJ
+
 ![Thirsty llama](http://i.imgur.com/civQQne.gif)
 ![cj gif](http://37.media.tumblr.com/tumblr_m4y5iveprl1r9i0fuo3_250.gif)
 
