@@ -1,5 +1,6 @@
+<div>
 ![Thirsty llama](http://i.imgur.com/civQQne.gif)
-
+</div>
 <div class="team one">
 
 ![Thirsty llama](http://i.imgur.com/civQQne.gif)
