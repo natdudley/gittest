@@ -1,6 +1,8 @@
 <div class="team one">
 Words about CJ
+
 ![cj gif](http://37.media.tumblr.com/tumblr_m4y5iveprl1r9i0fuo3_250.gif)
+
 <img src="http://media.tumblr.com/90772e20bf47736ab8182e6df2dab3b6/tumblr_inline_mt3nfmQYUX1s9rnjf.gif">
 </div>	
 <div class="team two">
